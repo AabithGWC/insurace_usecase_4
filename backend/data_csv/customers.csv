@@ -1,0 +1,3 @@
+﻿customer_id,external_ref,first_name,last_name,dob,email,phone,city,consent_marketing,consent_email,consent_sms,protected_gender,protected_religion,protected_marital_status,protected_nationality
+cust_p03,C-P03,Grace,Adeyemi,1981-06-15,grace.adeyemi@example.com,971501000203,Sharjah,true,true,true,,,,
+cust_p12,C-P12,Gulfline Logistics,LLC,1986-06-15,hr@gulfline-logistics.example.com,97143000117,Ajman,true,true,true,,,,

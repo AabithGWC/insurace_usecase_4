@@ -1,0 +1,25 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+.pytest_cache/
+.ruff_cache/
+*.egg-info/
+dist/
+build/
+
+# Env
+.env
+
+# Data: the app's own records are runtime state; the input CSVs are tracked
+data/
+backend/data_csv/system/
+backend/data_csv/results/
+*.csv.tmp
+
+# Editors / tools
+.vscode/
+.idea/
+.kilo/
+docs/db_data_model.md
+*.log
